@@ -5,7 +5,7 @@
 - 🤔  I’m currently interested about frontend web development
 - 📫  Blog : https://blog.csdn.net/weixin_46803507?spm=1011.2124.3001.5343
 
-### 🛠 Tech Tools
+### 🛠 Tech stacks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
