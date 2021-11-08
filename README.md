@@ -27,4 +27,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cclintris&hide=TeX&layout=compact&theme=dark)
-[![cclintris's github stats](https://github-readme-stats.vercel.app/api?username=cclintris&theme=dark)]
+![cclintris's github stats](https://github-readme-stats.vercel.app/api?username=cclintris&theme=dark)
