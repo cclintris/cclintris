@@ -1,9 +1,10 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm cclintris
 
 ### 👨🏻‍💻 About Me
-- 🎓  Studying Software Engineering in NJU 
-- 🤔  I’m currently interested about frontend web development
-- 📫  Blog : https://blog.csdn.net/weixin_46803507?spm=1011.2124.3001.5343
+- 🎓 About to graduate bachelor from Nanjing University Software Institute.
+- 🎓 Upcoming Tartan! Newly Carnegie Mellon University INI grad student MS34!
+- 🤔 I’m currently interested about frontend web development, trying to develop full stack SDE skills. About to study security for Master's degree at CMU.
+- 📫 Blog : https://blog.csdn.net/weixin_46803507?spm=1011.2124.3001.5343
 
 ### 🛠 Tech stacks
 
