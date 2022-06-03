@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 - 🎓 About to graduate bachelor from Nanjing University Software Institute.
 - 🎓 Upcoming Tartan! Newly Carnegie Mellon University INI grad student MS34!
-- 🤔 I’m currently interested about frontend web development, trying to develop full stack SDE skills. About to study security for Master's degree at CMU.
+- 🤔 I’m currently interested about frontend web development, trying to develop full stack SDE skills. About to study security for Master's degree.
 - 📫 Blog : https://blog.csdn.net/weixin_46803507?spm=1011.2124.3001.5343
 
 ### 🛠 Tech stacks
