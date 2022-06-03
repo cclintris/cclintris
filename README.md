@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> I'm Tristan
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> I'm Tristan
 
 ### 👨🏻‍💻 About Me
 - 🎓 About to graduate bachelor from Nanjing University Software Institute.
