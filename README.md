@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 About Me
 - 🎓 Graduated bachelor from Nanjing University Software Institute.
 - 🎓 Carnegie Mellon University INI grad student MS34!
-- 🤔 I’m interested about frontend web development and full stack SWE skills. About to study security for Master's degree.
-- 📫 Blog : https://blog.csdn.net/weixin_46803507?spm=1011.2124.3001.5343
+- 🤔 I’m interested about frontend/backend web development and full stack SWE skills~
+- 📫 Blog : [My Github Gist](https://gist.github.com/cclintris)
 
 ### 🛠 Tech stacks
 
