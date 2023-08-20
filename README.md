@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 About Me
 - 🎓 Graduated bachelor from Nanjing University Software Institute.
-- 🎓 Carnegie Mellon University INI grad student MS34!
-- 🤔 I’m interested about frontend/backend web development and full stack SWE skills~
+- 🎓 Carnegie Mellon University INI grad student MS34.
+- 🤔 I’m interested about frontend/backend web development and full stack SWE skills.
 - 📫 Blog : [My Github Gist](https://gist.github.com/cclintris)
 
 ### 🛠 Programming Languages
@@ -32,5 +32,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cclintris&hide=TeX&layout=compact&theme=dark)
-![cclintris's github stats](https://github-readme-stats.vercel.app/api?username=cclintris&theme=dark)
+<a href="https://github.com/cclintris">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cclintris&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cclintris&hide=TeX&theme=buefy&layout=compact" />
+</a>
