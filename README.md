@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 🎓 Graduated bachelor from Nanjing University Software Institute.
-- 🎓 Carnegie Mellon University INI grad student MS34.
+- 🎓 Carnegie Mellon University ini grad student MS34.
 - 🤔 I’m interested about frontend/backend web development and full stack SWE skills.
 - 📫 Blog : [My Github Gist](https://gist.github.com/cclintris)
 
