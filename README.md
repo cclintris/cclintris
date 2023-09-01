@@ -5,6 +5,7 @@
 - 🎓 Carnegie Mellon University ini grad student MS34.
 - 🤔 I’m interested about frontend/backend web development and full stack SWE skills.
 - 📫 Blog : [My Github Gist](https://gist.github.com/cclintris)
+- Know more about me here: https://tristanlin-portfolio.vercel.app/
 
 ### 🛠 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
